@@ -19,6 +19,18 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 * https://guides.github.com/features/mastering-markdown/
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+## Deploy your Application 
+
+#### Static file hosts
+
+* [GitHub Pages](https://pages.github.com/)
+* [BitBalloon](https://www.bitballoon.com/)
+
+#### Node.js, Ruby
+
+* [Heroku](https://heroku.com/)
+* [Amazon AWS](https://aws.amazon.com/)
+
 ## Presentations
 
 **Every person in your group must talk!**
