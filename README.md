@@ -2,11 +2,11 @@
 
 Outline for project presentations in WDI
 
-### Create a README file
+### Create a README
 
-Create a README in the root of your GitHub project repository using Mardown. Mardown is a lightweight and easy way to format documentation for your project.  
+Create a README using Markdown. Markdown is a lightweight and easy way to format documentation for your project.  
 
-1. Create a file called README.md in the root of your project repository
+1. Create a file called **README.md** in the root of your project repository
 2. Include sections for: 
  - Project Description
  - User Stories
