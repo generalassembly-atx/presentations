@@ -4,7 +4,7 @@ Outline for project presentations in WDI
 
 ### Create a README
 
-Create a README using Markdown. Markdown is a lightweight and easy way to format documentation for your project.  
+Create a README using Markdown. [Markdown](https://guides.github.com/features/mastering-markdown/) is a lightweight and easy way to format documentation for your projects on GitHub.  
 
 1. Create a file called **README.md** in the root of your project repository
 2. Include sections for: 
