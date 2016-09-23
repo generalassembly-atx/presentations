@@ -1,4 +1,4 @@
-## WDI Presentations
+# WDI Presentations
 
 Outline for project presentations in WDI
 
