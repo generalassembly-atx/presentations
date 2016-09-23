@@ -19,7 +19,7 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 
 ## Presentations
 
-**Every person in your group must talk**
+**Every person in your group must talk!**
 
 For your presentations, make sure you do the following: 
 
