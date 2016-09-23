@@ -23,13 +23,13 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 
 For your presentations, make sure you do the following: 
 
-* Explain what your app does and why you wanted to create it
-* Demo your project
-* Show us your **README** file and walk us through: 
+1. Explain what your app does and why you wanted to create it
+2. Demo your project
+3. Show us your **README** file and walk us through: 
  - User stories
  - Wireframes
-* Show your code! 
-* Rose, bud, thorn
+4. Show your code! 
+5. Rose, bud, thorn
  - What are you most proud of? 
  - What are you planning on working on next? 
  - What was a pain point and something you might do differently next time?
