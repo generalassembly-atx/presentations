@@ -12,7 +12,7 @@ Create a README in the root of your GitHub project repository using Mardown. Mar
  - User Stories
  - Wireframes
 
-#### Resources for writing Mardown
+#### Resources for writing Markdown
 
 * https://guides.github.com/features/mastering-markdown/
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
