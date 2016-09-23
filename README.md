@@ -32,7 +32,7 @@ For your presentations, make sure you do the following:
 5. Rose, bud, thorn
  - What are you most proud of? 
  - What are you planning on working on next? 
- - What was a pain point and something you might do differently next time?
+ - What were some pain points and something you might do differently next time?
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
