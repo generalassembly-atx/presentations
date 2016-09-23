@@ -12,6 +12,8 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
  - User Stories
  - Wireframes
 
+> **User Story format:** As a (role) I want (something) so that (benefit).
+
 #### Resources for writing Markdown
 
 * https://guides.github.com/features/mastering-markdown/
