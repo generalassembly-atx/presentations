@@ -1,6 +1,6 @@
 # WDI Presentations
 
-Outline for project presentations in WDI
+Outline for project presentations in WDI Austin.
 
 ## Create a README
 
@@ -9,6 +9,7 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 1. Create a file called **README.md** in the root of your project repository
 2. Include sections for: 
  - Project Description
+ - Technologies Used
  - User Stories
  - Wireframes
 
@@ -35,18 +36,26 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 
 **Every person in your group must talk!**
 
-For your presentations, make sure you do the following: 
+Presentation Structure:
 
-1. Explain what your app does and why you wanted to create it
-2. Demo your project
-3. Show us your **README** file and walk us through: 
+1. **Problem**: Explain what your app does, the problem it is trying to solve, how you are fixing that problem it by building this app, and why you wanted to create it in the first place.
+2. **Demo** your project! Have a clear plan of the order in which you're going to show the main features of your application.
+3. **Process**: Tell us about your process. Show us your **README** file and walk us through: 
  - User stories
  - Wireframes
-4. Show your code! 
-5. Rose, bud, thorn
- - What are you most proud of? 
- - What are you planning on working on next? 
- - What were some pain points and something you might do differently next time?
+ - Technology used and Why
+4. **Code**: Show your code! Pick out 1-2 of the most interesting/challenging bits of code and walk us through them.
+5. **Reflection/Next Steps**: Rose, bud, thorn
+ - Rose: What are you most proud of? 
+ - Bud: What are you planning on working on next? What do you want to continue to improve?
+ - Thorn: What were some pain points and something you might do differently next time?
+
+## Tips
+
+- We'll tell the critiquers how long you had to work on these projects. Justifications like "I would have done X, but we only had 4 days" don't belong in the presentation – be confident about what you have built. You'll have plenty of time to let us know about X in the next steps section.
+- On that note, be positive in general! Nothing is more uncomfortable than a negative presentation.
+- Plan your demo beforehand. That includes everything you're planning to type in and everything you're going to click. Don't integrate audience participation for the inputs – that just increases the chance of errors!
+- Be professional, but have fun!
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
