@@ -38,7 +38,7 @@ Create a README using Markdown. [Markdown](https://guides.github.com/features/ma
 
 Presentation Structure:
 
-1. **Problem**: Explain what your app does, the problem it is trying to solve, how you are fixing that problem it by building this app, and why you wanted to create it in the first place.
+1. **Problem**: Explain what your app does, the problem it is trying to solve, how you are fixing that problem, and why you wanted to create it in the first place.
 2. **Demo** your project! Have a clear plan of the order in which you're going to show the main features of your application.
 3. **Process**: Tell us about your process. Show us your **README** file and walk us through: 
  - User stories
@@ -54,7 +54,7 @@ Presentation Structure:
 
 - We'll tell the critiquers how long you had to work on these projects. Justifications like "I would have done X, but we only had 4 days" don't belong in the presentation – be confident about what you have built. You'll have plenty of time to let us know about X in the next steps section.
 - On that note, be positive in general! Nothing is more uncomfortable than a negative presentation.
-- Plan your demo beforehand. That includes everything you're planning to type in and everything you're going to click. Don't integrate audience participation for the inputs – that just increases the chance of errors!
+- Plan your demo beforehand. That includes everything you're planning to type in and everything you're going to click. Be careful of audience participation for the inputs – that increases the chance of errors!
 - Be professional, but have fun!
 
 ## Licensing
